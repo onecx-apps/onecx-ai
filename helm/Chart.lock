@@ -4,6 +4,6 @@ dependencies:
   version: 0.3.0
 - name: onecx-ai-management-svc
   repository: oci://ghcr.io/onecx-apps/charts
-  version: 0.0.0-rc.54
-digest: sha256:a7ed1cd100e4b5789c322af76d9c4723d3243715f9b3d5adfcf36efc344fe0e3
-generated: "2025-04-01T08:33:18.776021091Z"
+  version: 0.0.0-rc.55
+digest: sha256:e68a67afc2b91f26722fd6e3bad494f04db576d2b5c3d63d85864cbd44e614be
+generated: "2025-06-25T12:44:16.984587623Z"
