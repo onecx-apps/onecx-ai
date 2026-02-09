@@ -1,2 +1,2 @@
-# onecx-ai
+# Deprecated: onecx-ai
 OneCx ai Management
